@@ -1,0 +1,1 @@
+# STATA-Code-for-Negative-Shock-for-Each-Industry
